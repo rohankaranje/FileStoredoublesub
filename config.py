@@ -19,7 +19,7 @@ APP_ID = int(os.environ.get("APP_ID", "27996421"))
 API_HASH = os.environ.get("API_HASH", "5f5cb6a13ecff3d90e1ec73dc366e26d")
 
 #Your db channel Id
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002091416876"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002118860679"))
 
 # NAMA OWNER
 OWNER = os.environ.get("OWNER", "rohankaranje")
@@ -36,7 +36,7 @@ DB_NAME = os.environ.get("DATABASE_NAME", "Fileslink")
 
 #force sub channel id, if you want enable force sub
 FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1002056340901"))
-FORCE_SUB_CHANNEL2 = int(os.environ.get("FORCE_SUB_CHANNEL2", "-1002026709764"))
+FORCE_SUB_CHANNEL2 = int(os.environ.get("FORCE_SUB_CHANNEL2", "-1002078641731"))
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
